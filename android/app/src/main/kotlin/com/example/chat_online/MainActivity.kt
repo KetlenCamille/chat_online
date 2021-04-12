@@ -1,4 +1,4 @@
-package com.example.chat_online
+package br.com.rieper.chat_online
 
 import io.flutter.embedding.android.FlutterActivity
 
